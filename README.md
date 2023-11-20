@@ -1,7 +1,7 @@
 # Pandaptable's Counter Strike: 2 CFG
 # don't be an idiot
 don't be a fucking idiot and use this blindy.. just take things if you need them or take inspiration, this is bound to be weird to someone out there
-# Info
+# PC Info
 
 ### [**Mouse**](https://ca.roccat.com/products/kone-aimo-remastered)
 500hz polling rate | 800 dpi | 1.2 sens
@@ -20,10 +20,15 @@ Glorious GMMK **FULL SIZE** rev2 (bought it years ago, no longer available) with
 - RX 570 (hoping to upgrade soon)
 
 # Video Settings
-- Shadows: High
-- Models / Textures: Medium
-- Texture Filtering: 2x
-- Shaders: High
-- Particles: Medium
-- Ambient Occlusion: Medium
+- Shadows: **High**
+- Models / Textures: **Medium**
+- Texture Filtering: **2x**
+- Shaders: **High**
+- Particles: **Medium**
+- Ambient Occlusion: **Medium**
 - ### ***FidelityFX OFF***
+
+# CS Specific Info
+### I use a text mod from [**here**](https://github.com/xPaw/CS2).
+### **Launch options**
+```-high +exec autoexec.cfg -language textmod -condebug -conclearlog -usercon```
