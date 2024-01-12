@@ -15,17 +15,19 @@ don't be a fucking idiot and use this blindy.. just take things if you need them
 Glorious GMMK **FULL SIZE** rev2 (bought it years ago, no longer available) with Gateron reds.
 
 ### **PC Specs**
-- 16 GB of ram (really need more)
+- 48 GB of 3200 mhz DDR4
 - Ryzen 5 5600x
-- RX 570 (hoping to upgrade soon)
+- RTX 4060
 
 # Video Settings
+- Antialiasing: **8x MSAA**
 - Shadows: **High**
-- Models / Textures: **Medium**
-- Texture Filtering: **2x**
+- Models / Textures: **High**
+- Texture Filtering: **16x**
 - Shaders: **High**
-- Particles: **Medium**
-- Ambient Occlusion: **Medium**
+- Particles: **Very High**
+- Ambient Occlusion: **High**
+- Nvidia Reflex Low Latency: **Enabled + boost**
 - ### ***FidelityFX OFF***
 
 # CS Specific Info
