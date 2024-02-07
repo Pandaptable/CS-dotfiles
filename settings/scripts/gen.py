@@ -31,7 +31,7 @@ for i in range(num_messages):
     num_last_spaces = max_num_len - len(str((i+1) % num_messages + 1))
     spaces = ' ' * num_spaces
     last_spaces = ' ' * num_last_spaces
-    roll_line = f'alias "say{i+1}"{spaces} "alias print chat{i+1};{spaces} alias ghost say{(i+1) % num_messages + 1};{last_spaces} ghost"'
+    roll_line = f'alias "say{i+1}"{spaces} "alias print chat{i+1};{spaces} alias ghost say{(i+1) % num_messages + 1}"'
     new_lines.append(roll_line)
 
 with open(CS_FILE, 'w', encoding='utf-8') as f:
