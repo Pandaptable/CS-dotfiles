@@ -25,12 +25,12 @@ Glorious GMMK **FULL SIZE** rev2 (bought it years ago, no longer available) with
 - Models / Textures: **High**
 - Texture Filtering: **16x**
 - Shaders: **High**
-- Particles: **Very High**
-- Ambient Occlusion: **High**
-- Nvidia Reflex Low Latency: **Enabled + boost**
+- Particles: **High**
+- Ambient Occlusion: **Medium**
+- Nvidia Reflex Low Latency: **Enabled**
 - ### ***FidelityFX OFF***
 
 # CS Specific Info
 ### I use a text mod from [**here**](https://github.com/xPaw/CS2).
 ### **Launch options**
-```-high +exec autoexec.cfg -language textmod -condebug -conclearlog -usercon```
+```-high +exec autoexec.cfg -condebug -conclearlog -usercon```

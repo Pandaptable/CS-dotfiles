@@ -14,3 +14,5 @@ gamestate_integration_artemis.cfg
 
 # Alternate autoexec
 zzzz.cfg
+/settings/scripts/add.py
+/settings/tranny.cfg
