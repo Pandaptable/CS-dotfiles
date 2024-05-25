@@ -8,13 +8,17 @@ server.cfg
 user_keys*.vcfg
 
 
-
 # Artemis RGB gamestate
 gamestate_integration_artemis.cfg
 
-# Alternate autoexec
-zzzz.cfg
-/settings/scripts/add.py
-/settings/tranny.cfg
-/autohop
+# https://git.pandaptable.moe/galls
+selfbot.cfg
+
+# AutoPOV
+CS2AutoPovCommand.cfg
+gamestate_integration_CS2AutoPov.cfg
+
+# Misc
 /settings/unused.cfg
+settings/scripts/bad.cfg
+settings/scripts/regenerate.bat
