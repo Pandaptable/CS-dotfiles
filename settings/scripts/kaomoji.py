@@ -5,7 +5,7 @@ CHAT = 'kaochat'
 SAY = 'kaosay'
 PRINT = 'kaoprint'
 GHOST = 'kaoghost'
-CS_PATH = "E:/SteamLibrary/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/settings/"
+CS_PATH = "D:/SteamLibrary/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/settings/"
 CS_FILE = CS_PATH + CFG + '.cfg'
 MESSAGES_FILE = CS_PATH + 'scripts/' + CFG + '.cfg'
 

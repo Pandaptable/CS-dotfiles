@@ -22,3 +22,5 @@ gamestate_integration_CS2AutoPov.cfg
 /settings/unused.cfg
 settings/scripts/bad.cfg
 settings/scripts/regenerate.bat
+admins.json
+gamestate_integration_qtshock.cfg
