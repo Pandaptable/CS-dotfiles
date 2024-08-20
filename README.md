@@ -4,12 +4,7 @@ don't be a fucking idiot and use this blindy.. just take things if you need them
 # PC Info
 
 ### [**Mouse**](https://ca.roccat.com/products/kone-aimo-remastered)
-500hz polling rate | 800 dpi | 1.2 sens
-- Note: I use rawaccel with a linear curve.
-    - Acceleration: 0.005
-    - Cap Type: Output
-    - Cap Output: 2.2
-    - Gain enabled
+500hz polling rate | 800 dpi | 1.7 sens
 
 ### **Keyboard**
 Glorious GMMK **FULL SIZE** rev2 (bought it years ago, no longer available) with Gateron reds.
@@ -31,6 +26,5 @@ Glorious GMMK **FULL SIZE** rev2 (bought it years ago, no longer available) with
 - ### ***FidelityFX OFF***
 
 # CS Specific Info
-### I use a text mod from [**here**](https://github.com/xPaw/CS2).
 ### **Launch options**
 ```-high +exec autoexec.cfg -condebug -conclearlog -usercon```
