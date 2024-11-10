@@ -3,7 +3,7 @@
 don't be a fucking idiot and use this blindy.. just take things if you need them or take inspiration, this is bound to be weird to someone out there
 # PC Info
 
-### [**Mouse**](https://ca.roccat.com/products/kone-aimo-remastered)
+### [**Mouse**](https://www.amazon.com/Precision-Illumination-Programmable-Designed-Remastered/dp/B07YCG26KZ)
 500hz polling rate | 800 dpi | 1.7 sens
 
 ### **Keyboard**
