@@ -19,8 +19,9 @@ CS2AutoPovCommand.cfg
 gamestate_integration_CS2AutoPov.cfg
 
 # Misc
-/settings/unused.cfg
-settings/scripts/bad.cfg
-settings/scripts/regenerate.bat
+nem/unused.cfg
+nem/scripts/bad.cfg
+nem/scripts/regenerate.bat
 admins.json
 movement/movement-desubtick.7z
+gamestate_integration_*.cfg
