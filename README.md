@@ -27,4 +27,4 @@ Glorious GMMK **FULL SIZE** rev2 (bought it years ago, no longer available) with
 
 # CS Specific Info
 ### **Launch options**
-```-high +exec autoexec.cfg -condebug -conclearlog -usercon```
+```-high -condebug -conclearlog -allow_third_party_software -threads 13```
