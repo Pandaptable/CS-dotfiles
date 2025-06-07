@@ -22,6 +22,7 @@ gamestate_integration_CS2AutoPov.cfg
 nem/unused.cfg
 nem/scripts/bad.cfg
 nem/scripts/regenerate.bat
+nem/hidden.cfg
 admins.json
 movement/movement-desubtick.7z
 gamestate_integration_*.cfg
