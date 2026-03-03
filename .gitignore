@@ -6,6 +6,7 @@ perftest.cfg
 server_default.cfg
 server.cfg
 user_keys*.vcfg
+test.cfg
 
 
 # Artemis RGB gamestate

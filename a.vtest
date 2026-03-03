@@ -1,0 +1,11 @@
+/// Use launch option: -testscript "../../csgo/cfg/a.vtest" and save this in cfg folder as "a.vtest"
+Test_WaitForCheckPoint frame_end
+
+/// Make sure any aliases below are initialized in autoexec.cfg, example: alias W! ""
+n
+
+/// Add one or more to reduce fps impact at the cost of responsiveness; Test_Wait 0.00078125 not advised (works just once)
+//Test_RunFrame
+
+/// Loop each frame; repeated entries above are chaining multiple alias substitutions in a single run
+Test_Run ../../csgo/cfg/a.vtest
